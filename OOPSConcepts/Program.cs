@@ -16,6 +16,8 @@ namespace OOPSConcepts
 
             Delegates.DelegateImplementation.Object.FunctionAndActionDelegate();
 
+            new BaseDeriveInitizalition.Derived();
+
             Console.ReadLine();
         }
     }
