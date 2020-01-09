@@ -16,7 +16,13 @@ namespace OOPSConcepts
 
             Delegates.DelegateImplementation.Object.FunctionAndActionDelegate();
 
+            Console.WriteLine();
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Black;
             new BaseDeriveInitizalition.Derived();
+            Console.WriteLine();
+            Console.BackgroundColor = ConsoleColor.Green;
+            new child();
 
             Console.ReadLine();
         }

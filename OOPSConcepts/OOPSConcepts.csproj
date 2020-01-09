@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseDeriveInitizalition\Abstract and Sealed.cs" />
     <Compile Include="BaseDeriveInitizalition\ClassVariableAndConstructor.cs" />
     <Compile Include="CompareAndIComparer\MainClass.cs" />
     <Compile Include="Delegates\FuncDelegate.cs" />
